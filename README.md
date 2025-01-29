@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Roiyane / Roayane and I'm a Fullstack-Development student, from Morocco <br>
-In love with coding, gaming and cats:3  </h2>
+In love with Coding, Gaming and Cats :3  </h2>
 
 ###
 
