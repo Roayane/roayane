@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👨🏼‍💻 software engineering student</h3>
+<h3 align="left">👨🏼‍💻 Software engineering student<br>  Currently im an AI formation </h3>
 
 ###
 
