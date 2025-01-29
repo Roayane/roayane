@@ -2,11 +2,12 @@
 
 ###
 
-<h3 align="left">👨🏼‍💻 Software engineering student<br>    Currently im an AI formation </h3>
+<h3 align="left">👨🏼‍💻 Software engineering student</h3>
+<h3 align="left">🚀 Currently in an AI formation </h3>
 
 ###
 
-<h2 align="left">🚀 Languages and Tools I Use</h2>
+<h2 align="left"> Languages and Tools I Use</h2>
 ###
 
 <div align="left">
