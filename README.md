@@ -60,7 +60,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roayane/roayane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roayane/roayane/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/roayane/roayane/output/github-snake.svg" />
+</picture>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
