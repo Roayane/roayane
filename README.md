@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack i study and work with:</h2>
 
 ###
 
