@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👨🏼‍💻 Software engineering student</h3>
-<h3 align="left">🚀 Currently in an AI formation </h3>
+<h3 align="left">🚀 Currently in an AI formation with ALX_Africa </h3>
 <h4 align="left">🎮 I also game in my free time. Find me on discord @yurheina. </h4>
 
 ###
